@@ -1,0 +1,10 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	name = thomaslast
+	email = 39706847+thomaslast@users.noreply.github.com
+[winUpdater]
+	recentlySeenVersion = 2.17.0.windows.1
