@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1845641554/PATH/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1845641554/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1845641554/PATH/value=D\:/Program Files/Java SE 8-171/bin/server;D\:/Program Files/Java SE 8-171/bin;D\:/Program Files/Java SE 8-171/lib/amd64;C\:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C\:\\WINDOWS\\system32;C\:\\WINDOWS;C\:\\WINDOWS\\System32\\Wbem;C\:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C\:\\Program Files\\PuTTY\\;C\:\\WINDOWS\\System32\\OpenSSH\\;C\:\\Users\\lastt\\AppData\\Local\\Programs\\Python\\Python36-32\\Scripts\\;C\:\\Users\\lastt\\AppData\\Local\\Programs\\Python\\Python36-32\\;C\:\\Users\\lastt\\AppData\\Local\\Microsoft\\WindowsApps;C\:\\Program Files (x86)\\Nmap;C\:\\Program Files\\Microsoft VS Code\\bin;C\:\\WINDOWS\\system32;D\:\\Program Files\\mingw64\\bin
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1845641554/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1845641554/appendContributed=true
