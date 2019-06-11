@@ -1,1 +1,1 @@
-This is my phython code practise area. 
+This is my phython code practice area. 
